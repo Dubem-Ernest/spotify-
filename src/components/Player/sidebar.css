@@ -1,0 +1,27 @@
+.sidebar{
+    height: 100vh;
+    flex: 0.2;
+    color: #fff;
+    padding: 0 10px;
+    min-width: 230px;
+    background-color: #040404;
+}
+
+.spotify__logo{
+    object-fit: contain;
+    height: 3.8em;
+    margin-right: auto;
+    padding: .75em;
+}
+
+.playlist{
+    margin-left: .35em;
+    padding: .45em;
+    font-size: 1em;
+}
+
+.sidebar > hr{
+    border: 1px solid #282828;
+    width: 90%;
+    margin: .56em auto;
+}
